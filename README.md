@@ -1,4 +1,12 @@
-### Hi there 👋
+### Salve pessoal 👋
+Eu sou um desenvolvedor web backend, crio sites, apps e bots (as vezes).
+Brevemente pretendo começar a lançar exemplos de projetos e usos específicos, fica ligado!
+
+Possuo experiências em diversas linguagens de programação mais comuns, mas eu realmente possuo um nível de manuseio 
+a mais em JavaScript.
+
+Atualmente trabalho na D Walt Engenharia com um contrato de meio período e algumas vezes
+como designer gráfico freelancer.
 
 <!--
 **luarrekcah/luarrekcah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
