@@ -12,11 +12,11 @@ a mais em JavaScript.
 - 🔭 Atualmente trabalho na D Walt Engenharia com um contrato de meio período e algumas vezes
 como designer gráfico freelancer.
 
-<h3 align="left">Algumas Redes Sociais:</h3>
-<p align="left">
-<a href="https://instagram.com/luarrekcah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luarrekcah" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/RDaxUrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/RDaxUrv" height="30" width="40" /></a>
-</p>
+<div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luarrekcah&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luarrekcah&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-<h3 align="left">Que tal um cafezin?</h3>
-<p><a href="https://www.buymeacoffee.com/luarrekcah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devluar" /></a></p><br><br>
+<div align="center">
+<a href="https://www.instagram.com/luarrekcah/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
