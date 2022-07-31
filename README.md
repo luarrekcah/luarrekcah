@@ -3,14 +3,14 @@
 
 ---
 
-Eu sou um desenvolvedor web backend, crio sites, apps e bots (as vezes).
+Eu sou um desenvolvedor web backend e designer gráfico, crio sites, apps e bots (as vezes).
 Brevemente pretendo começar a lançar exemplos de projetos e usos específicos, fica ligado!
 
 Possuo experiências em diversas linguagens de programação mais comuns, mas eu realmente possuo um nível de manuseio 
 a mais em JavaScript.
 
 - 🔭 Atualmente trabalho na D Walt Engenharia com um contrato de meio período e algumas vezes
-como designer gráfico freelancer.
+como freelancer.
 
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luarrekcah&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
