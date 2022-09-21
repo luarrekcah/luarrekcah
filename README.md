@@ -3,14 +3,23 @@
 
 ---
 
-Eu sou um desenvolvedor web backend e designer gráfico, crio sites, apps e bots (as vezes).
+Eu sou um desenvolvedor fullstack e designer gráfico, crio sites, apps e bots (as vezes).
 Brevemente pretendo começar a lançar exemplos de projetos e usos específicos, fica ligado!
 
 Possuo experiências em diversas linguagens de programação mais comuns, mas eu realmente possuo um nível de manuseio 
 a mais em JavaScript.
 
-- 🔭 Atualmente trabalho na D Walt Engenharia com um contrato de meio período e algumas vezes
-como freelancer.
+<h2>Experiência Profissional</h2>
+- 🔭 <b>D | Walt Engenharia</b> como FullStack web, mobile e designer gráfico, modalidade CLT, desenvolvendo do zero o site principal, e seus dependentes para gestão geral, como aplicativos android. Atendendo a demanda tecnológica e gráfica.
+<br><br>
+- 🔭 <b>Agência Gênios</b>, sócio-fundador. 
+<br><br>
+- 🔭 <b>Freelancer</b>, Design Gráfico e Desenvolvimento de Sistemas.
+
+<h2>Escolaridade</h2>
+- <b>Cursando</b>, 3° ano do ensino médio. (Tenho 17 anos).
+
+---
 
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luarrekcah&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
