@@ -49,6 +49,13 @@ a mais em JavaScript.
 
 ---
 
+
+<div align="center">
+ <a href="https://discord.com/users/701953428510736396" target="_blank">
+  <img width="50%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/701953428510736396?bg=1f1f1f&borderRadius=5px">
+ </a>
+</div>
+                                        
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luarrekcah&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luarrekcah&layout=compact&langs_count=7&theme=dark"/>
@@ -58,11 +65,6 @@ a mais em JavaScript.
 <a href="https://www.instagram.com/luarrekcah/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
-<a href="https://discord.com/users/701953428510736396" target="_blank">
-                                            <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/701953428510736396?bg=1f1f1f&borderRadius=5px">
-                                        </a>
-                                        </div>
 
 
 <p align="rigth"> <img src="https://komarev.com/ghpvc/?username=luarrekcah&label=Profile%20views&color=0e75b6&style=flat" alt="luarrekcah" /> </p>
