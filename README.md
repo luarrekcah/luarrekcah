@@ -9,14 +9,20 @@ Possuo experiências em diversas linguagens de programação mais comuns, mas eu
 a mais em JavaScript.
 
 <h2>Experiência Profissional</h2>
-- 🔭 <b>D | Walt Engenharia</b> como FullStack web, mobile e designer gráfico, modalidade CLT, desenvolvendo do zero o site principal, e seus dependentes para gestão geral, como aplicativos android. Atendendo a demanda tecnológica e gráfica.
+- 🔭 <b>Freelancer</b>, Design Gráfico e Desenvolvimento de Sistemas.
 <br><br>
 - 🔭 <b>Agência Gênios</b>, sócio-fundador. 
 <br><br>
-- 🔭 <b>Freelancer</b>, Design Gráfico e Desenvolvimento de Sistemas.
+- 🔭 <b>D | Walt Engenharia</b> como FullStack web, mobile e designer gráfico, modalidade CLT, desenvolvendo do zero o site principal, e seus dependentes para gestão geral, como aplicativos android. Atendendo a demanda tecnológica e gráfica.
+<br><br>
+
+
+
 
 <h2>Escolaridade</h2>
-- <b>Cursando</b>, 3° ano do ensino médio. (Tenho 17 anos).
+- <b>Cursando</b> Bacharelado em Engenharia de Software. 2023-2027
+<br><br>
+- <b>Cursando</b> 3° ano do ensino médio. (Tenho 17 anos).
 
 ---
 
