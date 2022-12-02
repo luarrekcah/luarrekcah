@@ -22,7 +22,7 @@ a mais em JavaScript.
 <h2>Escolaridade</h2>
 - <b>Cursando</b> Bacharelado em Engenharia de Software. 2023-2027
 <br><br>
-- <b>Cursando</b> 3° ano do ensino médio. (Tenho 17 anos).
+- <b>Completo</b> ensino médio.
 
 ---
 
