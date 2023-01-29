@@ -2,11 +2,9 @@
 
 ---
 
-Eu sou um desenvolvedor fullstack e designer gráfico, crio sites, apps e bots (as vezes).
-Brevemente pretendo começar a lançar exemplos de projetos e usos específicos, fica ligado!
+Sou desenvolvedor fullstack e designer gráfico, especializado em criação de sites, aplicativos e bots. 
 
-Possuo experiências em diversas linguagens de programação mais comuns, mas eu realmente possuo um nível de manuseio 
-a mais em JavaScript.
+Em breve, pretendo compartilhar exemplos de projetos e usos específicos. Possuo habilidade nas principais linguagens de programação, mas tenho especial expertise em JavaScript.
 
 <h2>Experiência Profissional</h2>
 - 🔭 <b>Freelancer</b>, Design Gráfico e Desenvolvimento de Sistemas.
