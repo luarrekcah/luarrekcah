@@ -4,7 +4,7 @@
 
 Sou desenvolvedor fullstack e designer gráfico, especializado em criação de sites, aplicativos e bots. 
 
-Em breve, pretendo compartilhar exemplos de projetos e usos específicos. Possuo habilidade nas principais linguagens de programação, mas tenho especial expertise em JavaScript.
+Produzo conteúdo no YouTube, Tiktok e no Instagram, dá uma olhada!
 
 <h2>Experiência Profissional</h2>
 - 🔭 <b>Freelancer</b>, Design Gráfico e Desenvolvimento de Sistemas.
