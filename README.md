@@ -2,9 +2,19 @@
 
 ---
 
-Sou desenvolvedor fullstack e designer gráfico, especializado em criação de sites, aplicativos e bots. 
+Sou desenvolvedor backend, porém me viro no front também! Sou capaz de desenvolver sozinho sites, APIs,
+apps android, BOTs, programas para Windows/Linux e outros sistemas.
 
-Produzo conteúdo no YouTube, Tiktok e no Instagram, dá uma olhada!
+Como hobbie produzo conteúdo no YouTube, Tiktok e no Instagram, amo ensinar e auxiliar meus colegas.
+
+<h2>Curiosidade</h2>
+
+Estou empreendendo, há cerca de 1/2 anos fundei uma empresa de desenvolvimento de software e design 
+gráfico com um amigo, abrimos um CNPJ e hoje somos bem reconhecidos localmente, responsáveis
+por grandes eventos da região! Recentemente lancei meu sistema de hospedagem de bots, já me rendeu
+um bom dinheiro e atualmente conta com quase mil reais em assinaturas ativas mensais. Me casei esse
+ano com uma boa mulher, estou auxiliando para que ela entre no mundo do empreendimento e conquiste
+de forma suada a sua tão sonhada renda.
 
 <h2>Experiência Profissional</h2>
 - 🔭 <b>Freelancer</b>, Design Gráfico e Desenvolvimento de Sistemas.
@@ -14,9 +24,6 @@ Produzo conteúdo no YouTube, Tiktok e no Instagram, dá uma olhada!
 - 🔭 <b>D | Walt Engenharia</b> como FullStack web, mobile e designer gráfico, modalidade CLT, desenvolvendo do zero o site principal, e seus dependentes para gestão geral, como aplicativos android. Atendendo a demanda tecnológica e gráfica.
 <br><br>
 
-
-
-
 <h2>Escolaridade</h2>
 - <b>Cursando</b> Bacharelado em Engenharia de Software. 2023-2027
 <br><br>
@@ -25,7 +32,6 @@ Produzo conteúdo no YouTube, Tiktok e no Instagram, dá uma olhada!
 ---
 
 <h2>Tecnologias & Ferramentas</h2>
-
 
 <div style="align-items: row">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -62,7 +68,5 @@ Produzo conteúdo no YouTube, Tiktok e no Instagram, dá uma olhada!
 <div align="center">
 <a href="https://www.instagram.com/luarrekcah/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-
 
 <p align="rigth"> <img src="https://komarev.com/ghpvc/?username=luarrekcah&label=Profile%20views&color=0e75b6&style=flat" alt="luarrekcah" /> </p>
