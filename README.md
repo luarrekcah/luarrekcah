@@ -7,6 +7,17 @@ apps android, BOTs, programas para Windows/Linux e outros sistemas.
 
 Como hobbie produzo conteúdo no YouTube, Tiktok e no Instagram, amo ensinar e auxiliar meus colegas.
 
+<h2>Alguns projetos</h2>
+
+https://achy.devluar.com
+https://geeknote.devluar.com
+https://hosting.devluar.com
+https://luarzito.devluar.com
+https://connect.dlwalt.net
+https://prospect.dlwalt.net
+
+E muitos outros! Alguns projetos você não encontrará no meu Github por estarem privados.
+
 <h2>Curiosidade</h2>
 
 Estou empreendendo, há cerca de 1/2 anos fundei uma empresa de desenvolvimento de software e design 
