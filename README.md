@@ -9,11 +9,12 @@ Como hobbie produzo conteúdo no YouTube, Tiktok e no Instagram, amo ensinar e a
 
 <h2>Alguns projetos</h2>
 
+<p>https://play.google.com/store/apps/dev?id=7274060289807345996 (todos os apps)</p>
+<p>https://connect.dlwalt.net</p>
 <p>https://achy.devluar.com</p>
 <p>https://geeknote.devluar.com</p>
 <p>https://hosting.devluar.com</p>
 <p>https://luarzito.devluar.com</p>
-<p>https://connect.dlwalt.net</p>
 <p>https://prospect.dlwalt.net</p>
 
 E muitos outros! Alguns projetos você não encontrará no meu Github por estarem privados.
