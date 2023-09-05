@@ -25,7 +25,8 @@ Aqui estão alguns dos meus projetos:
 - 🎮 [GeekNote - Uma ferramenta para geeks](https://geeknote.devluar.com)
 - 🌐 [DLHosting - Hospedagem e Gerenciamento de Bots](https://hosting.devluar.com)
 - 🚀 [Luarzito - Um Simples Bot para o Discord](https://luarzito.devluar.com)
-- 📊 [Prospect - Envie Mensagens Promocionais para Diversas Empresas](https://prospect.dlwalt.net)
+- 📊 [Prospect - Envie Mensagens Promocionais para Diversas Empresas](https://prospect.dlwalt.net) + App Android ADM
+- 🤖 [WhatsApp + ChatGPT](https://github.com/luarrekcah/whatsapp-chatgpt-integration)
 
 E muitos outros! Alguns projetos não estão no meu GitHub, pois são privados.
 
