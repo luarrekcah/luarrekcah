@@ -21,7 +21,7 @@ Aqui estão alguns dos meus projetos:
 
 - 📱 [Connect - Aplicativos de Equipe e Cliente](https://play.google.com/store/apps/dev?id=7274060289807345996)
 - 🌐 [Connect - Gerenciamento de Projetos Fotovoltaicos](https://connect.dlwalt.net)
-- 🌟 [Achy Massage - Site de Massagem Multi-idioma](https://achy.devluar.com)
+- 🌟 [Achy Massage - Site de Massagem Multi-idioma](https://achymassage.com)
 - 🎮 [GeekNote - Uma ferramenta para geeks](https://geeknote.devluar.com)
 - 🌐 [DLHosting - Hospedagem e Gerenciamento de Bots](https://hosting.devluar.com)
 - 🚀 [Luarzito - Um Simples Bot para o Discord](https://luarzito.devluar.com)
