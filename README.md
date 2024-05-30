@@ -32,7 +32,7 @@ E muitos outros! Alguns projetos não estão no meu GitHub, pois são privados.
 
 <h2>Empreendedorismo</h2>
 
-Em 2022, fundei uma empresa de desenvolvimento de software e design gráfico com um amigo. Juntos, abrimos um CNPJ e conquistamos reconhecimento local, sendo responsáveis por grandes eventos na região. Recentemente, lancei meu sistema de hospedagem de bots, que já gera uma receita sólida, com quase mil reais em assinaturas ativas mensais. Além disso, me casei este ano e estou apoiando minha esposa em sua jornada empreendedora.
+Em 2022, fundei uma empresa de desenvolvimento de software e design gráfico com um amigo. Juntos, abrimos um CNPJ e conquistamos reconhecimento local, sendo responsáveis por grandes eventos na região. Recentemente, lancei meu sistema de hospedagem de bots, que já gera uma receita sólida, com mais de mil reais em assinaturas ativas mensais. Além disso, me casei e estou apoiando minha esposa em sua jornada empreendedora.
 
 <h2>Experiência Profissional</h2>
 
