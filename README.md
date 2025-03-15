@@ -8,9 +8,9 @@ Sou um apaixonado desenvolvedor de software, designer gráfico e empreendedor co
 
 - 💻 Desenvolvedor Backend (Também me viro no front quando necessário haha)
 - 🎨 Designer Gráfico
-- 📱 Desenvolvedor de Aplicativos Android
+- 📱 Desenvolvedor de Aplicativos Android/iOS
 - 🤖 Criador de Bots
-- 🖥️ Desenvolvedor de Programas para Windows/Linux
+- 🖥️ Desenvolvedor de Programas para Windows/Linux/Mac
 - 🎥 Criador de Conteúdo no YouTube
 
 Como entusiasta da educação, adoro compartilhar conhecimento e ajudar meus colegas em suas jornadas.
@@ -37,12 +37,12 @@ Em 2022, fundei uma empresa de desenvolvimento de software e design gráfico com
 <h2>Experiência Profissional</h2>
 
 - 💼 **Freelancer**: Trabalho como designer gráfico e desenvolvedor de sistemas.
-- 👥 **Agência Gênios**: Sou sócio-fundador, atuo como desenvolvedor e designer gráfico.
+- 👥 **Agência Gênios**: Sou sócio-diretor, atuo como desenvolvedor e designer gráfico.
 - 🏢 **D | Walt Engenharia**: Trabalhei como FullStack web, mobile e designer gráfico, desenvolvendo sites e aplicativos Android do zero.
 
 <h2>Educação</h2>
 
-- 📚 **Bacharelado em Engenharia de Software**: Cursando (2023-2027).
+- 📚 **Bacharelado em Engenharia de Software**: Cursando 3° ano (2023-2026).
 - 🎓 **Ensino Médio**: Completo.
 
 <h2>Tecnologias & Ferramentas</h2>
